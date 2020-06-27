@@ -1,0 +1,6 @@
+一、思路
+1 建立进行命名实体识别
+
+
+规则：
+title分词后没有一个term包含query的，如query=月下，title=怀孕六个月下阴痒(即title中假包含query)
